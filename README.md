@@ -4,3 +4,7 @@
 
 * ぼくたちのゴシック
  + [http://yoshihisa.que.jp/fontopo/](http://yoshihisa.que.jp/fontopo/)
+
+* フォントポにほんご
+ + [http://yoshihisa.que.jp/fontopo/nihongo.html](http://yoshihisa.que.jp/fontopo/nihongo.html)
+ 		
